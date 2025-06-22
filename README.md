@@ -6,5 +6,5 @@
 - 👯 Open to collab on beginner-friendly dev projects  
 - 💬 Ask me about C++, frontend, or cool project ideas  
 - 😄 Pronouns: she/her
-- 📬 Reach Me via [LinkedIn] (https://www.linkedin.com/in/chhavi-gautam/)  <br/>
+- 📬 Reach Me via [LinkedIn](https://www.linkedin.com/in/chhavi-gautam/)  <br/>
 - ⚡ Fun fact: I cry easily, so be kind 💖
