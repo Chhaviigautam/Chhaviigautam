@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004d00,100:39ff14&height=180&section=header&text=Chhavi%20Gautam&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff1493&height=180&section=header&text=Chhavi%20Gautam&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -20,28 +20,28 @@
 
 ### About Me:
 
-*What I Build*  
+**What I Build**  
 Full-stack web applications and AI-driven platforms. Specializing in the MERN stack and integrating intelligent ML models using Scikit-Learn, LightGBM, and Langchain into user-centric products.
 
-*Technical Expertise*  
-- *Frontend Development*: React.js, TailwindCSS, HTML, CSS for creating responsive and dynamic UIs.
-- *Backend Development*: Node.js, Express.js architecture, RESTful API design, and JWT Authentication.
-- *AI/ML & Data*: Predictive modeling, feature engineering using Python, Pandas, NumPy, Scikit-learn, and HuggingFace APIs.
-- *Competitive Programming*: Strong grasp of Data Structures and Algorithms with over 500+ problems solved across major platforms.
+**Technical Expertise**  
+- **Frontend Development**: React.js, TailwindCSS, HTML, CSS for creating responsive and dynamic UIs.
+- **Backend Development**: Node.js, Express.js architecture, RESTful API design, and JWT Authentication.
+- **AI/ML & Data**: Predictive modeling, feature engineering using Python, Pandas, NumPy, Scikit-learn, and HuggingFace APIs.
+- **Competitive Programming**: Strong grasp of Data Structures and Algorithms with over 500+ problems solved across major platforms.
 
-*Open to Collaborate On*  
+**Open to Collaborate On**  
 Innovative web applications, AI/ML integrations, Hackathons, open-source development, and projects emphasizing scalability and performance.
 
-*Currently Advancing In*  
+**Currently Advancing In**  
 Generative AI implementations, LangChain, FAISS, Docker containerization, and advanced backend optimization techniques.
 
-*Technical Discussions*  
+**Technical Discussions**  
 Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems (MongoDB, PostgreSQL), Machine Learning workflows, and Web Development best practices.
 
-*Engineering Philosophy*  
+**Engineering Philosophy**  
 Analyze data deeply, optimize creatively, design responsively, and never stop competing and learning in the coding community.
 
-*Reach Me*: gautamchhavi13@gmail.com
+**Reach Me**: gautamchhavi13@gmail.com
 
 <br clear="both">
 
@@ -116,7 +116,7 @@ Analyze data deeply, optimize creatively, design responsively, and never stop co
 
 ### Development Architecture
 
-mermaid
+```mermaid
 graph LR
     A[MERN Stack] -->|React/Tailwind| B[Frontend]
     A -->|Node.js/Express| C[Backend Services]
@@ -125,7 +125,7 @@ graph LR
     C --> G[MongoDB / Postgres]
     E --> G
     F --> C
-
+```
 
 </div>
 
@@ -133,7 +133,7 @@ graph LR
 
 <div align="center">
 
-| *Data Structures* | *Algorithms* | *AI/ML* | *Backend* |
+| **Data Structures** | **Algorithms** | **AI/ML** | **Backend** |
 |:---:|:---:|:---:|:---:|
 | Trees, Graphs, Heaps | Dynamic Programming | Feature Engineering | RESTful APIs |
 | Hash Tables, Tries | Graph Algorithms | Model Evaluation | Token Authentication |
@@ -161,4 +161,4 @@ graph LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004d00,100:39ff14&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff1493&height=100&section=footer" width="100%"/>
