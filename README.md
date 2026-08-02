@@ -143,7 +143,7 @@ graph LR
 
 ---
 
-## Contribution Graph
+<!-- ## Contribution Graph
 
 <div align="center">
   
@@ -153,9 +153,9 @@ graph LR
 
 ---
 
-<div align="center">
+<div align="center"> 
   
-### "Strive for progress, not perfection."
+### "Strive for progress, not perfection."-->
 
 [![](https://visitcount.itsvg.in/api?id=Chhaviigautam&icon=6&color=6)](https://visitcount.itsvg.in)
 
